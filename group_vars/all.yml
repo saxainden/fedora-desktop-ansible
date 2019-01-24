@@ -2,14 +2,14 @@
 # Please adjust following varibles to fit your environment:
 
 temp_dir: /tmp               # temporary dir for downoaded files
-user: docent                 # your user
-group: docent                # your user's primary group
-home_dir: /home/docent       # your user's homedir
-local_soft_dir: /home/docent/soft  # where to save local installations of software
-local_bin_dir: /home/docent/bin  # local bin directory for various binaries
+user: jpj                 # your user
+group: jpj                # your user's primary group
+home_dir: /home/jpj       # your user's homedir
+local_soft_dir: /home/jpj/soft  # where to save local installations of software
+local_bin_dir: /home/jpj/bin  # local bin directory for various binaries
 git:
-    username: Maciej Lasyk   # your git Name
-    email: maciej@lasyk.info  # your git e-mail address
+    username: John Julian   # your git Name
+    email: saxainden@gmail.com  # your git e-mail address
 
 sys:
   vm:
