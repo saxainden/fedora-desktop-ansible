@@ -1,2 +1,3 @@
 [local]
 shetipo	ansible_ssh_host=localhost
+wapato-vm ansible_ssh_host=localhost
